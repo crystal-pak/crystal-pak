@@ -1,4 +1,4 @@
-# Hi, there! 👋
+# Hi there 👋
 I am a beginner developer learning Java.
 
 ## 🌱 Skill
