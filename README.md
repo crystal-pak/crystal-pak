@@ -13,7 +13,6 @@
           <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/JSP-FFA500.svg?style=for-the-badge&logo=jsp&logoColor=white" />&nbsp
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   </div>
 </div>
 
